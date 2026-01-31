@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Abhishek Kumar Sharma 👋
 
-<!--
-**Abhishek-Sharma10/Abhishek-Sharma10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Web Developer and Java programmer who enjoys building interactive and user-friendly applications.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML, CSS, JavaScript  
+- Java  
+- DOM Manipulation  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🥁 Drum Kit Web App  
+- 📊 AI Transaction Analysis  
+- 📘 Java Practice Programs  
+
+## 🌱 Currently Learning
+- Advanced JavaScript  
+- Data Structures  
+- Backend Development  
+
+## 📫 Contact Me
+- GitHub: https://github.com/Abhishek-Sharma10

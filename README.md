@@ -1,135 +1,236 @@
 # Hi, I'm Abhishek Kumar Sharma
 
-Full-Stack Developer | Java | Node.js | System Design | AI Agents
+Full-Stack Developer | Java | Node.js | Backend Engineering | System Design | AI Agents
 
-I build real-world applications with a focus on backend engineering, real-time systems, full-stack development, GIS platforms, and AI-agent architectures.
+I build real-world software with a focus on backend engineering, full-stack development, real-time systems, scalable architectures, and AI-powered applications.
 
-My goal is to design and build software that is scalable, secure, maintainable, and practical.
+I am particularly interested in designing systems that are secure, maintainable, scalable, and practical.
 
 ## Tech Stack
 
-### Frontend
-- React
-- JavaScript / TypeScript
-- Vite
-- Tailwind CSS
-- HTML / CSS
-
 ### Backend
+
 - Java
-- Spring Boot
 - Node.js
 - Express.js
+- REST APIs
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+
+### Database
+
+- PostgreSQL
+
+### Authentication & Security
+
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- Secure API Design
+
+### Development Tools
+
+- Git
+- GitHub
+- Docker
+- Postman
+
+## Currently Learning & Deepening
+
+I am actively expanding my knowledge in the following areas:
+
+### Backend & Architecture
+
+- Spring Boot
+- Backend Architecture
+- System Design
+- Scalable Backend Systems
+- Distributed Systems
+- API Architecture
+- Database Design & Performance
+
+### Frontend
+
+- React
+- TypeScript
+
+### Python Backend
+
 - Python
 - FastAPI
 
-### Databases
-- PostgreSQL
-- PostGIS
+### Databases & Infrastructure
+
 - MongoDB
 - Redis
+- PostgreSQL/PostGIS
+- Geospatial Systems
 
-### APIs & Real-Time Systems
-- REST APIs
+### Real-Time Systems
+
 - WebSockets
 - Socket.io
-- JWT Authentication
-- RBAC
+- Real-Time Communication Architecture
+- Event-Driven Systems
 
-### AI & Engineering
+### AI Engineering
+
 - AI Agents
 - Multi-Agent Systems
 - LLM Integration
 - Tool Calling
 - Structured Outputs
+- Agent Orchestration
 - Human-in-the-Loop Workflows
-- Docker
-- Git & GitHub
+- AI Agent Architecture
 
 ## Featured Projects
 
-### 1. Portfolio Website
+### 1. Real-Time Communication App — In Development
 
-A frontend-focused personal portfolio showcasing my projects, technical skills, and engineering work.
+A Java and Spring Boot based real-time communication platform focused on messaging, presence, notifications, WebSockets, and scalable system design.
 
-**Focus:** React, JavaScript, UI/UX, Responsive Design
+Focus:
 
-[View Repository](https://github.com/Abhishek-Sharma10/Portfolio)
+- Java
+- Spring Boot
+- WebSockets
+- PostgreSQL
+- Redis
+- System Design
+- Real-Time Architecture
+- Scalable Backend Architecture
 
----
+Repository: Coming soon.
 
-### 2. Real-Time Communication App — In Development
-
-A Java and Spring Boot based real-time communication platform focused on messaging, WebSockets, presence, notifications, and scalable system design.
-
-**Focus:** Java, Spring Boot, WebSockets, PostgreSQL, Redis, System Design
-
-*Repository coming soon.*
-
----
-
-### 3. Project Management Tool
+### 2. Project Management Tool
 
 A full-stack project and team collaboration platform with project management, Kanban workflows, authentication, RBAC, task management, notifications, and real-time collaboration.
 
-**Focus:** React, Node.js, Express.js, PostgreSQL, Socket.io, JWT, RBAC, Docker
+Focus:
+
+- React
+- Node.js
+- Express.js
+- PostgreSQL
+- Socket.io
+- JWT
+- RBAC
+- Docker
+- REST APIs
+- Real-Time Collaboration
 
 [View Repository](https://github.com/Abhishek-Sharma10/Project_Management_Tool)
 
----
-
-### 4. BhuStack
+### 3. BhuStack
 
 A GIS-based digital land governance platform providing parcel visualization, land information workflows, spatial data exploration, and REST-based backend services.
 
-**Focus:** React, FastAPI, PostgreSQL, PostGIS, Leaflet, GeoJSON, Docker
+Focus:
+
+- React
+- FastAPI
+- PostgreSQL
+- PostGIS
+- Leaflet
+- GeoJSON
+- Docker
+- GIS Architecture
 
 [View Repository](https://github.com/Abhishek-Sharma10/bhustack)
 
----
+### 4. Payment Integrity Agent
 
-### 5. Multi-AI Agent System — In Development
+An AI-powered payment integrity and revenue recovery system designed to identify payment anomalies, explain evidence, prioritize recoverable revenue, and support human-approved actions.
 
-A multi-agent AI platform built around specialized agents, orchestration, tool usage, evidence-based reasoning, and human approval workflows.
+The system focuses on evidence-based analysis rather than autonomous financial actions.
 
-The existing Payment Integrity Agent is being evolved into a broader multi-agent architecture, where payment integrity is one of the primary real-world use cases.
+Focus:
 
-**Focus:** AI Agents, Multi-Agent Architecture, LLMs, Agent Orchestration, Tool Calling, Guardrails, Human-in-the-Loop
+- AI Agents
+- LLM Integration
+- Structured Reasoning
+- Tool Calling
+- Human-in-the-Loop Workflows
+- FastAPI
+- React
+- MongoDB
+- Payment Anomaly Detection
+- Auditability
 
-[Current Payment Integrity Agent](https://github.com/Abhishek-Sharma10/Payment-Integrity-Agent)
+[View Repository](https://github.com/Abhishek-Sharma10/Payment-Integrity-Agent)
 
 ## Engineering Focus
 
 I am particularly interested in:
 
-- Backend and API architecture
-- Real-time systems
-- System design
-- Database design and performance
-- Authentication and authorization
-- Distributed and scalable applications
-- AI-agent architecture
-- Production-oriented software engineering
+- Backend Engineering
+- Backend Architecture
+- API Design
+- System Design
+- Real-Time Systems
+- Distributed Systems
+- Database Design
+- Database Performance
+- Authentication & Authorization
+- Scalable Applications
+- Event-Driven Architecture
+- AI-Agent Architecture
+- Production-Oriented Software Engineering
 
 ## Currently Building
 
 - Real-Time Communication App using Java and Spring Boot
-- Multi-AI Agent System evolving from the Payment Integrity Agent
-- Improvements to my Project Management Tool
-- System design and backend engineering skills
+- Project Management Tool improvements using Node.js and Express.js
+- AI-agent architecture and multi-agent systems
+- Backend architecture and system design skills
+- Real-time and distributed system concepts
 
 ## Development Principles
 
-I focus on building projects that demonstrate more than just functionality:
+I focus on building projects that demonstrate more than just functionality.
+
+My engineering approach emphasizes:
 
 - Clear architecture
+- Separation of concerns
 - Secure authentication and authorization
 - Proper database design
-- Testable and maintainable code
+- Scalable APIs
+- Maintainable code
+- Testable systems
 - API documentation
 - Dockerized development
-- CI/CD where appropriate
-- Observability and auditability for complex systems
+- Observability and auditability
+- Idempotent and reliable operations
+- Human approval for high-impact AI workflows
+
+## Learning Direction
+
+My current learning path is focused on moving from application development toward deeper backend and system engineering.
+
+```text
+Java / Node.js
+       ↓
+Backend Development
+       ↓
+Spring Boot / Express.js
+       ↓
+Backend Architecture
+       ↓
+System Design
+       ↓
+Real-Time Systems
+       ↓
+Distributed Systems
+       ↓
+Scalable Production Systems
+       ↓
+AI-Agent Architecture
+```
 
 ## Connect
 

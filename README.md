@@ -229,8 +229,6 @@ I focus on building projects that demonstrate more than just functionality.
 
 ---
 
----
-
 ## 🧩 LeetCode
 
 <div align="center">

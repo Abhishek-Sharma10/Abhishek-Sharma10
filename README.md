@@ -229,10 +229,28 @@ I focus on building projects that demonstrate more than just functionality.
 
 ---
 
-# 📫 Connect
+---
+
+## 🧩 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/kumarsharmaabhishek74/" target="_blank">
+  <img
+    src="https://leetcard.jacoblin.cool/kumarsharmaabhishek74?theme=dark&font=Karma&ext=heatmap"
+    alt="LeetCode Stats"
+  />
+</a>
+
+</div>
+
+---
+
+## 🔗 Connect
 
 - GitHub: [Abhishek-Sharma10](https://github.com/Abhishek-Sharma10)
 - LinkedIn: [abhishek-sharma10](https://www.linkedin.com/in/abhishek-sharma10)
+- LeetCode: [kumarsharmaabhishek74](https://leetcode.com/u/kumarsharmaabhishek74)
 
 ---
 
